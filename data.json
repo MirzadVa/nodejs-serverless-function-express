@@ -1,0 +1,100 @@
+[
+  {
+    "date": "2025-07-09",
+    "price": 34.99,
+    "priceTRY": "1609.85",
+    "from": "SJJ",
+    "to": "SAW"
+  },
+  {
+    "date": "2025-07-08",
+    "price": 34.99,
+    "priceTRY": "1609.85",
+    "from": "SJJ",
+    "to": "SAW"
+  },
+  {
+    "date": "2025-07-07",
+    "price": 34.99,
+    "priceTRY": "1609.85",
+    "from": "SJJ",
+    "to": "SAW"
+  },
+  {
+    "date": "2025-07-03",
+    "price": 34.99,
+    "priceTRY": "1609.85",
+    "from": "SJJ",
+    "to": "SAW"
+  },
+  {
+    "date": "2025-07-01",
+    "price": 34.99,
+    "priceTRY": "1609.85",
+    "from": "SJJ",
+    "to": "SAW"
+  },
+  {
+    "date": "2025-06-30",
+    "price": 37.01,
+    "priceTRY": "1702.79",
+    "from": "SJJ",
+    "to": "SAW"
+  },
+  {
+    "date": "2025-06-27",
+    "price": 37.01,
+    "priceTRY": "1702.79",
+    "from": "SJJ",
+    "to": "SAW"
+  },
+  {
+    "date": "2025-06-26",
+    "price": 37.01,
+    "priceTRY": "1702.79",
+    "from": "SJJ",
+    "to": "SAW"
+  },
+  {
+    "date": "2025-07-06",
+    "price": 37.79,
+    "priceTRY": "1738.68",
+    "from": "SJJ",
+    "to": "SAW"
+  },
+  {
+    "date": "2025-08-31",
+    "price": 40.01,
+    "priceTRY": "1840.82",
+    "from": "SJJ",
+    "to": "SAW"
+  },
+  {
+    "date": "2025-08-29",
+    "price": 40.01,
+    "priceTRY": "1840.82",
+    "from": "SJJ",
+    "to": "SAW"
+  },
+  {
+    "date": "2025-08-21",
+    "price": 40.01,
+    "priceTRY": "1840.82",
+    "from": "SJJ",
+    "to": "SAW"
+  },
+  {
+    "date": "2025-07-05",
+    "price": 43.55,
+    "priceTRY": "2003.69",
+    "from": "SJJ",
+    "to": "SAW"
+  },
+  {
+    "date": "2025-07-11",
+    "price": 43.71,
+    "priceTRY": "2011.05",
+    "from": "SJJ",
+    "to": "SAW"
+  }
+]
